@@ -26,6 +26,7 @@ function getFootNavBar()
         <div class="container-fluid" >\
             <ul class="nav navbar-nav navbar-right">\
                 <li><a href="Index">Home</a></li>\
+                <li><a href="Mission">Mission Page</a></li>\
                 <li><a href="About">About Us</a></li>\
                 <li><a href="Contact">Contact Us</a></li>\
             </ul>\
